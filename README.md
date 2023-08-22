@@ -10,6 +10,8 @@
 - </b>Malicious Code Project (https://1drv.ms/w/s!AoprPJtskGcjlzqwUW0zJ6cOyp-Y?e=fmY6sU)
 - </b>Incident Response Project (https://1drv.ms/w/s!AoprPJtskGcjmGHry86Lc5nZf5pO?e=WdTTNp)
 - </b>Wireshark Analysis (https://1drv.ms/w/s!AoprPJtskGcjnG4qDa676lbTYURK?e=4ldlbf)
+- </b>Windows Privesc (https://1drv.ms/w/s!AoprPJtskGcjnDex8zAdmdKFAIkh?e=KkyUSm)
+- </b>Linux Privesc (https://1drv.ms/w/s!AoprPJtskGcjnCdWoAY1ckhQlZdk?e=e0pAXQ)
   
 
 
