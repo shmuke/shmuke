@@ -13,6 +13,7 @@
 - </b>Windows Privesc (https://1drv.ms/w/s!AoprPJtskGcjnDex8zAdmdKFAIkh?e=KkyUSm)
 - </b>Linux Privesc (https://1drv.ms/w/s!AoprPJtskGcjnCdWoAY1ckhQlZdk?e=e0pAXQ)
 - </b>Mobile Pentesting (https://1drv.ms/w/s!AoprPJtskGcjm2tueH4Ie0jG6T7T?e=HHeO02)
+- </b>SQL Injection (https://1drv.ms/w/s!AoprPJtskGcjmxqyhsoa2W7Qkrom?e=Kssb9W)
   
 
 
