@@ -12,6 +12,7 @@
 - </b>Wireshark Analysis (https://1drv.ms/w/s!AoprPJtskGcjnG4qDa676lbTYURK?e=4ldlbf)
 - </b>Windows Privesc (https://1drv.ms/w/s!AoprPJtskGcjnDex8zAdmdKFAIkh?e=KkyUSm)
 - </b>Linux Privesc (https://1drv.ms/w/s!AoprPJtskGcjnCdWoAY1ckhQlZdk?e=e0pAXQ)
+- </b>Mobile Pentesting (https://1drv.ms/w/s!AoprPJtskGcjm2tueH4Ie0jG6T7T?e=HHeO02)
   
 
 
