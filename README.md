@@ -1,4 +1,4 @@
-<h1>Hi, I'm Luke!, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>
+<h1>Hi, I'm Luke!, <a href="https://www.linkedin.com/in/luke-jenkins-73a227212/">Cybersecurity Professional</a>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 - <b>Eternal Blue Project (https://1drv.ms/w/s!AoprPJtskGcjmhYBVBcxv3sGLeK2?e=GemqMB)
